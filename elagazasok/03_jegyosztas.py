@@ -25,7 +25,7 @@ score = int(input())
 if score <= 49 and score >= 0: 
     print("Elégséges")
 elif score >= 50 and score <= 64 :
-    prin("Elégséges")
+    print("Elégséges")
 elif score >= 65 and score <= 79 :
     print("Közepes")
 elif score >= 80 and score <= 89 :
